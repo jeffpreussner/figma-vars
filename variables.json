@@ -1,0 +1,38 @@
+{
+  "Button A Padding Block": {
+    "$type": "number",
+    "$value": 8
+  },
+  "Button A Font Size": {
+    "$type": "number",
+    "$value": 22
+  },
+  "Button A Color": {
+    "$type": "color",
+    "$value": "#000000"
+  },
+  "Button A Border Color": {
+    "$type": "color",
+    "$value": "#ffffff"
+  },
+  "Button A Padding Inline": {
+    "$type": "number",
+    "$value": 16
+  },
+  "Button A Background Color": {
+    "$type": "color",
+    "$value": "#ffffff"
+  },
+  "Primary Black": {
+    "$type": "color",
+    "$value": "#000000"
+  },
+  "Base Font Size": {
+    "$type": "number",
+    "$value": 16
+  },
+  "Primary White": {
+    "$type": "color",
+    "$value": "#ffffff"
+  }
+}
